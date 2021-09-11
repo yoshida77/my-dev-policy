@@ -35,4 +35,5 @@ PEP8: https://www.python.org/dev/peps/pep-0008/#package-and-module-names
 - Test code: What
 - Commit log: Why
 - Code commets: Why not
-https://twitter.com/t_wada/status/904916106153828352
+
+ref: https://twitter.com/t_wada/status/904916106153828352
